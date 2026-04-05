@@ -1,6 +1,6 @@
 # 🏆 Leaderboard
 
-Last updated: 2026-04-05 18:24:15
+Last updated: 2026-04-05 19:19:15
 
 | Rank | Team | Score | Model | Date |
 |------|------|-------|-------|------|
@@ -14,4 +14,5 @@ Last updated: 2026-04-05 18:24:15
 |  8 | TugaAhmed | 0.7292 | GNN | 2026-04-04 |
 |  9 | Muhammad0isah | 0.7056 | GNN | 2026-04-02 |
 |  10 | Mubarraqqq | 0.6609 | GNN | 2026-04-01 |
-|  11 | samuelmatia | 0.6518 | GNN | 2026-04-01 |
+|  11 | El-Ikram | 0.6520 | GNN | 2026-04-05 |
+|  12 | samuelmatia | 0.6518 | GNN | 2026-04-01 |
